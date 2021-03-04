@@ -1,0 +1,16 @@
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\TP1\TP1.demo\obj\Debug\netcoreapp3.1\TP1.demo.csprojAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\TP1\TP1.demo\obj\Debug\netcoreapp3.1\TP1.demo.AssemblyInfoInputs.cache
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\TP1\TP1.demo\obj\Debug\netcoreapp3.1\TP1.demo.AssemblyInfo.cs
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\TP1\TP1.demo\obj\Debug\netcoreapp3.1\TP1.demo.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\TP1\TP1.demo\bin\Debug\netcoreapp3.1\TP1.demo.exe
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\TP1\TP1.demo\bin\Debug\netcoreapp3.1\TP1.demo.deps.json
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\TP1\TP1.demo\bin\Debug\netcoreapp3.1\TP1.demo.runtimeconfig.json
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\TP1\TP1.demo\bin\Debug\netcoreapp3.1\TP1.demo.runtimeconfig.dev.json
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\TP1\TP1.demo\bin\Debug\netcoreapp3.1\TP1.demo.dll
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\TP1\TP1.demo\bin\Debug\netcoreapp3.1\TP1.demo.pdb
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\TP1\TP1.demo\obj\Debug\netcoreapp3.1\TP1.demo.dll
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\TP1\TP1.demo\obj\Debug\netcoreapp3.1\TP1.demo.pdb
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\TP1\TP1.demo\obj\Debug\netcoreapp3.1\TP1.demo.genruntimeconfig.cache
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\TP1\TP1.demo\bin\Debug\netcoreapp3.1\TP1.library.dll
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\TP1\TP1.demo\bin\Debug\netcoreapp3.1\TP1.library.pdb
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\TP1\TP1.demo\obj\Debug\netcoreapp3.1\TP1.demo.csproj.CopyComplete

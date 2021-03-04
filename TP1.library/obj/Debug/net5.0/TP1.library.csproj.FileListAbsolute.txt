@@ -1,0 +1,12 @@
+/Users/samuel/Documents/Hiver 2021/POO III/TP1/TP1.library/bin/Debug/net5.0/TP1.library.deps.json
+/Users/samuel/Documents/Hiver 2021/POO III/TP1/TP1.library/bin/Debug/net5.0/TP1.library.dll
+/Users/samuel/Documents/Hiver 2021/POO III/TP1/TP1.library/bin/Debug/net5.0/ref/TP1.library.dll
+/Users/samuel/Documents/Hiver 2021/POO III/TP1/TP1.library/bin/Debug/net5.0/TP1.library.pdb
+/Users/samuel/Documents/Hiver 2021/POO III/TP1/TP1.library/obj/Debug/net5.0/TP1.library.csprojAssemblyReference.cache
+/Users/samuel/Documents/Hiver 2021/POO III/TP1/TP1.library/obj/Debug/net5.0/TP1.library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuel/Documents/Hiver 2021/POO III/TP1/TP1.library/obj/Debug/net5.0/TP1.library.AssemblyInfoInputs.cache
+/Users/samuel/Documents/Hiver 2021/POO III/TP1/TP1.library/obj/Debug/net5.0/TP1.library.AssemblyInfo.cs
+/Users/samuel/Documents/Hiver 2021/POO III/TP1/TP1.library/obj/Debug/net5.0/TP1.library.csproj.CoreCompileInputs.cache
+/Users/samuel/Documents/Hiver 2021/POO III/TP1/TP1.library/obj/Debug/net5.0/TP1.library.dll
+/Users/samuel/Documents/Hiver 2021/POO III/TP1/TP1.library/obj/Debug/net5.0/ref/TP1.library.dll
+/Users/samuel/Documents/Hiver 2021/POO III/TP1/TP1.library/obj/Debug/net5.0/TP1.library.pdb

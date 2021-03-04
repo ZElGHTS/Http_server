@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/samuel/Documents/Hiver 2021/POO III/TP1/TP1.library/TP1.library.csproj": {}
+  },
+  "projects": {
+    "/Users/samuel/Documents/Hiver 2021/POO III/TP1/TP1.library/TP1.library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/samuel/Documents/Hiver 2021/POO III/TP1/TP1.library/TP1.library.csproj",
+        "projectName": "TP1.library",
+        "projectPath": "/Users/samuel/Documents/Hiver 2021/POO III/TP1/TP1.library/TP1.library.csproj",
+        "packagesPath": "/Users/samuel/.nuget/packages/",
+        "outputPath": "/Users/samuel/Documents/Hiver 2021/POO III/TP1/TP1.library/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/samuel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/samuel/.dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
